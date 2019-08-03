@@ -95,6 +95,9 @@ i {
 input{
     border: none;
 }
+input:focus{
+    outline: none;
+}
 
 label{
     margin: 0 5px;
