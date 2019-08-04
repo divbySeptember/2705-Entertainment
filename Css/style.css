@@ -114,28 +114,28 @@ P{
 }
 
 
-.btn-primary {
+.btn1 {
     background: #000;
     margin: 40px 0;
     border: none;
 }
-.btn-primary:visited {
+.btn1:visited {
     outline: none;
     background: rgb(129, 129, 129);
     color:#000;
 }
-.btn-primary:focus {
+.btn1:focus {
     outline: none;
     background: rgb(129, 129, 129);
     color:#000;
 }
-.btn-primary:hover {
+.btn1:hover {
     outline: none;
     background: rgb(129, 129, 129);
     color:#000;
     
 }
-.btn-primary:active {
+.btn1:active {
     outline: none;
     background: rgb(129, 129, 129);
     color:#000;
